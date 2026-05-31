@@ -1,2 +1,4 @@
 Hello World! 
 I am learning git and gitHub and it is really amazing! 😊
+
+Trying to write commit message in VS Code.
